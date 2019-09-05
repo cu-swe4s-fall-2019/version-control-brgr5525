@@ -1,6 +1,6 @@
 def div(a, b):
-    if b > 0:
-    	return a/b
-    else
+    if b < 0:
     	return None
+    else
+    	return a/b
 
